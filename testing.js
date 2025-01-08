@@ -2,8 +2,8 @@ import * as THREE from './three js/build/three.module.js'
 import {OrbitControls} from './three js/examples/jsm/controls/OrbitControls.js'
 import {GLTFLoader} from './three js/examples/jsm/loaders/GLTFLoader.js'
 
-import {FontLoader} from './threejs/examples/jsm/loaders/FontLoader.js'
-import { TextGeometry } from './threejs/examples/jsm/geometries/TextGeometry.js'
+// import {FontLoader} from './threejs/examples/jsm/loaders/FontLoader.js'
+// import { TextGeometry } from './threejs/examples/jsm/geometries/TextGeometry.js'
 
 
 let scene, camera, renderer, control, spaceShip,  thirdPersonCamera, earthObj,sunObj,merObj,marsObj,spotlightTarget,spotLight,
